@@ -35,7 +35,6 @@ I am a dedicated low-level language developer specializing in performance optimi
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://codefinder.dev/static/assets/languages/Assembly.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/unity-icon-1998x2048-c6v0ej9o.png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
 
 <br />
 
