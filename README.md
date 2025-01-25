@@ -40,9 +40,12 @@ I am a dedicated low-level language developer specializing in performance optimi
 
 ##
 
-### 📊 Stats
-
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=comet400&show_icons=true&theme=gruvbox)
+
+
+<br />
+
+---
 
 # 📂 **Projects**
   
