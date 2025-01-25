@@ -1,64 +1,86 @@
-# 👋 Hi, I’m **@comet400**
+# 🌟 I’m **Comet400**
 
-Welcome to my GitHub profile! I'm a passionate developer specializing in Cyber Security, AI, backend systems, and database management. With a strong foundation in programming and a growing portfolio of projects, I’m dedicated to building innovative solutions and pushing the boundaries of technology.
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
+  <!-- Left Image -->
+  <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" 
+       alt="Java" 
+       style="width:70%; max-width:300px; height:auto;" />
+</div>
 
----
 
-## 🌟 **About Me**
-- 🔭 **Currently Working On**:  
-  Projects in **AI**, **game development**, **web development**, and **database systems**.
-- 🎓 **Learning Focus**:  
-  Advanced topics in **artificial intelligence**, **complex algorithms**, Coding Language Design, and **game engines** like Unity, Unreal, and Godot.
-- 💡 **Interests**:  
-  Low-Level Languages, Backend development, performance optimization, and scalable system design.
 
----
 
-## 🛠️ **Skills**
 
-### **Programming Languages**
-- **Proficient**:  
-  `C`, `C++`, `Python`, `SQL`  
-- **Intermediate**:  
-  `JavaScript`, `HTML/CSS`  
-- **Currently Exploring**:  
-  `ARM ASSEMBLY`, `TypeScript`
+``(Low Level Programmer/Software Engineer)``
 
-### **Tools & Technologies**
-- **Game Development**:  
-  `Unity`, `Unreal Engine`, `Godot`  
-- **Backend & Databases**:  
-  `MySQL`, `Postgres`, `.NET`  
-- **AI & Algorithms**:  
-  Pathfinding, decision trees, and machine learning basics  
-- **Web Development**:  
-  `Flask`, `React`, `Express.js`
-
-### **Specializations**
-- Low-Level Programming (hard focus on C)
-- Game mechanics and AI integration  
-- Backend development and database design  
-- Problem-solving and performance optimization  
-- Encryption and secure coding practices  
+I am a dedicated low-level language developer specializing in performance optimization, memory management, bug fixing, and artificial intelligence. With vast experience in creating diverse projects from the scratch, I bring deep expertise in cryptographic methods, game design, and programming language development, among other areas. I take pride in delivering innovative, efficient solutions and am passionate about tackling complex challenges. It's an honor to have you here, and I look forward to connecting and sharing ideas.
 
 ---
 
-## 📂 **Projects**
+### 🛠️ Main Skills & Tools
 
-- **🎮 Game Development**:  
-  Developed multiple games for game jams, and mechanics prototyping, focusing on AI, mechanics, and level design.
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=40669&format=png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/512/c-programming.png" />
+<img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/javascript.png" />
+<img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.instalki.pl/wp-content/uploads/program/icons/unnamed-6.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/375503/tensorflow-enterprise.svg" />
+<img align="left" alt="Java" width="22px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/bash.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn2.steamgriddb.com/logo_thumb/598fb37d8e3a1f127b3ba7700febc92e.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://codefinder.dev/static/assets/languages/Assembly.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/unity-icon-1998x2048-c6v0ej9o.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
+<br />
+
+##
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=comet400&show_icons=true&theme=gruvbox)
+
+# 📂 **Projects**
   
-- **🔐 C Lock Programming Language From Scratch**:  
+## **🔐 C Lock Programming Language From Scratch**:  
   A secure, lightweight language built entirely in C, featuring encrypted execution using OpenSSL AES-256. In my history I have already developed a first toy language called InBoxes using typescript.  
-  *(More details in the repository!)*
+  
 
-- **💻 Web & Backend Development**:  
-  Created interactive and responsive web applications using modern frameworks like Flask and React.  
+https://github.com/user-attachments/assets/da4ef306-80ba-4bc0-9ccf-ed1658f06fc5
 
-- **📊 Database Systems**:  
-  Designed relational and non-relational databases for real use applications.
 
 ---
+
+## **🤖 AI Development**:
+  Studied and applied the concepts of AI, into diverse projects for study, testing and research purposes.
+  
+
+https://github.com/user-attachments/assets/8aa545b6-a6ce-4079-979e-67a9c5464a2c
+
+
+https://github.com/user-attachments/assets/f4f9da7e-7022-4665-8d53-ec6b409a46de
+
+
+
+
+## **🎮 Game Development**:  
+  Developed multiple games for game jams, and mechanics prototyping, mechanics, and level design.
+
+`` Ghost Pop 72 Hours Game Jam ``
+
+https://github.com/user-attachments/assets/628a3fe4-11a3-4538-9388-f3c5e720364e
+
+https://github.com/user-attachments/assets/73e9f41e-06cc-40da-ad21-35c5709abd6a
+
+https://github.com/user-attachments/assets/ad33db39-e6ba-4890-bb48-b04d92571f43
+
+https://github.com/user-attachments/assets/cb7e6324-7aba-4a37-9aad-22df13301159
+
+
 
 ## **Looking to Collaborate On**
 - Game development projects (2D/3D, multiplayer, or AI-driven)  
@@ -71,13 +93,8 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in Cyber S
 
 ## 📫 **How to Reach Me**
 - **Email**: [lukas.fvieira@hotmail.com](mailto:lukas.fvieira@hotmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/lukas-vieira-a94a8332a/)  
+- **LinkedIn**: [My Linkedin](https://www.linkedin.com/in/lukas-vieira-a94a8332a/)  
 - **GitHub**: [@comet400](https://github.com/comet400)
-
----
-
-## ⚡ **Fun Fact**
-I’ve worked on numerous projects, however my abilities really shine on C, AI and C++ Games.
 
 ---
 
