@@ -61,10 +61,10 @@ https://github.com/user-attachments/assets/da4ef306-80ba-4bc0-9ccf-ed1658f06fc5
 ## **🤖 AI Development**:
   Studied and applied the concepts of AI, into diverse projects for study, testing and research purposes.
   
-
+### AI Driven Camera Card Game
 https://github.com/user-attachments/assets/8aa545b6-a6ce-4079-979e-67a9c5464a2c
 
-
+### AI Survival Test (The Bots had to figure the best way to win on their own through memory)
 https://github.com/user-attachments/assets/f4f9da7e-7022-4665-8d53-ec6b409a46de
 
 
@@ -77,17 +77,17 @@ https://github.com/user-attachments/assets/f4f9da7e-7022-4665-8d53-ec6b409a46de
 
 https://github.com/user-attachments/assets/628a3fe4-11a3-4538-9388-f3c5e720364e
 
-
+`` Slime Model ``
 
 https://github.com/user-attachments/assets/a07d2901-bdcf-4c50-a8e0-df51f7090f92
 
 
-
+`` Mechanical Arm Model ``
 
 https://github.com/user-attachments/assets/3b0c8393-b4d5-44b6-84c0-8853ff416aab
 
 
-
+`` Horror Game Room Ambient ``
 
 https://github.com/user-attachments/assets/cb7e6324-7aba-4a37-9aad-22df13301159
 
