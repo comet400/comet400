@@ -49,7 +49,7 @@ I am a dedicated low-level language developer specializing in performance optimi
 
 # 📂 **Projects**
   
-## **🔐 C Lock Programming Language From Scratch**:  
+## **🔐 C Lock  My Own Programming Language From Scratch**:  
   A secure, lightweight language built entirely in C, featuring encrypted execution using OpenSSL AES-256. In my history I have already developed a first toy language called InBoxes using typescript.  
   
 
