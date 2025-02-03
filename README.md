@@ -1,4 +1,4 @@
-# 🌟 I’m **Comet400**
+# I’m **Comet400**
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
   <!-- Left Image -->
@@ -17,7 +17,7 @@ I am a dedicated low-level language developer I am really passionate about C, ga
 
 ---
 
-### 🛠️ Main Skills & Tools
+### 🛠 Main Skills & Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=40669&format=png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/512/c-programming.png" />
@@ -52,7 +52,7 @@ I am a dedicated low-level language developer I am really passionate about C, ga
 
 # 📂 **Projects**
   
-## **🔐 C Lock  My Own Programming Language From Scratch**:  
+## ** C Lock  My Own Programming Language From Scratch**:  
   C lock, it's a language I have been developing from scratch, in order to learn language design, encryption methods, and deep my expertise in C, it already has a runtime, and AST recursive traversal interpreter, It is not yet fully done and here is the repo so I can showcase my journey to all of you. below its an example of cles (C Lock Encryption Secured: this is the encrypt decrypt version of the C lock) 
   
 
@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/da4ef306-80ba-4bc0-9ccf-ed1658f06fc5
 
 ---
 
-## **🤖 AI Development**:
+## ** AI Development**:
   Studied and applied the concepts of AI, into diverse projects for study, testing and research purposes. This shows my passion and interest in AI, along side with all the testings.
   
 ### AI Driven Camera Card Game
@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/f4f9da7e-7022-4665-8d53-ec6b409a46de
 
 
 
-## **🎮 Game Development**:  
+## ** Game Development**:  
   Developed multiple games for game jams, and mechanics prototyping, mechanics, and level design. This section shows my passion for games, I can do 3D models however I have more depth and knowledge in code, gameplay design, along side with level design. I have participated in two game jams in total.
 
 `` Ghost Pop 72 Hours Game Jam ``
