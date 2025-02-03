@@ -13,7 +13,7 @@
 
 ``(Low Level Programmer/Software Engineer)``
 
-I am a dedicated low-level language developer specializing in performance optimization, memory management, bug fixing, and artificial intelligence. With vast experience in creating diverse projects from the scratch, I bring deep expertise in cryptographic methods, game design, and programming language development, among other areas. I take pride in delivering innovative, efficient solutions and am passionate about tackling complex challenges. It's an honor to have you here, and I look forward to connecting and sharing ideas.
+I am a dedicated low-level language developer I am really passionate about C, game development, AI studies/development, language design, and bug fixing (I love finding and fixing bugs the most). With experience in making diverse projects from different fields and ranges, I have expertise in cryptographic methods, game design, programming language development, AI training and other areas. I'm proud of showcasing new creative projects and I am passionate about trying out new learnings/challenges. It's great to have you here! and I look forward to connecting and sharing our ideas!
 
 ---
 
@@ -53,7 +53,7 @@ I am a dedicated low-level language developer specializing in performance optimi
 # 📂 **Projects**
   
 ## **🔐 C Lock  My Own Programming Language From Scratch**:  
-  A secure, lightweight language built entirely in C, featuring encrypted execution using OpenSSL AES-256. In my history I have already developed a first toy language called InBoxes using typescript.  
+  C lock, it's a language I have been developing from scratch, in order to learn language design, encryption methods, and deep my expertise in C, it already has a runtime, and AST recursive traversal interpreter, It is not yet fully done and here is the repo so I can showcase my journey to all of you. below its an example of cles (C Lock Encryption Secured: this is the encrypt decrypt version of the C lock) 
   
 
 https://github.com/user-attachments/assets/da4ef306-80ba-4bc0-9ccf-ed1658f06fc5
@@ -62,9 +62,10 @@ https://github.com/user-attachments/assets/da4ef306-80ba-4bc0-9ccf-ed1658f06fc5
 ---
 
 ## **🤖 AI Development**:
-  Studied and applied the concepts of AI, into diverse projects for study, testing and research purposes.
+  Studied and applied the concepts of AI, into diverse projects for study, testing and research purposes. This shows my passion and interest in AI, along side with all the testings.
   
 ### AI Driven Camera Card Game
+It is a simple card game in which the AI tries to guess whats your card pick based in your expressions
 https://github.com/user-attachments/assets/8aa545b6-a6ce-4079-979e-67a9c5464a2c
 
 ### AI Survival Test (The Bots had to figure the best way to win on their own through memory)
@@ -74,7 +75,7 @@ https://github.com/user-attachments/assets/f4f9da7e-7022-4665-8d53-ec6b409a46de
 
 
 ## **🎮 Game Development**:  
-  Developed multiple games for game jams, and mechanics prototyping, mechanics, and level design.
+  Developed multiple games for game jams, and mechanics prototyping, mechanics, and level design. This section shows my passion for games, I can do 3D models however I have more depth and knowledge in code, gameplay design, along side with level design. I have participated in two game jams in total.
 
 `` Ghost Pop 72 Hours Game Jam ``
 
