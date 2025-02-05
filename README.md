@@ -18,7 +18,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=comet400&theme=merko)](https://github.com/comet400/github-readme-activity-graph)
   
   I am a dedicated low-level language developer passionate about C, game development, AI studies/development,
-  language design, and bug fixing (I love finding and fixing bugs the most). With experience in diverse projects, I am willing to learn and put my hands on any projects that are interesting
+  language design, and bug fixing (I love finding and fixing bugs the most). With experience in diverse projects, I am willing to learn and put my hands on any projects that are interesting.
   My favorite hobby is to find new languages, technologies, try them out and review it, let's connect and we can do something great together!
 
   <br />
