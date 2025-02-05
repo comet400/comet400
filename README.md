@@ -28,14 +28,14 @@
   
   | Technology          | Experience | Usage                                   | Notes                                |
   |---------------------|------------|-----------------------------------------|--------------------------------------|
-  | C/C++               | Great      | Games, encryption tools, CLI apps, Coding languages      | My favorite languages                 |
-  | C#                  | Great      | Windows port applications              | Good for my .NET development          |
-  | Python              | Great      | AI training/data manipulation          | I prefer brackets over indentation     |
-  | Linux/Bash          | Great      | C development, scripting, VPN tools    | Essential for my low-level work         |
-  | MySQL               | Great      | Database-driven applications           | I love working with datasets           |
-  | TensorFlow/PyTorch  | Medium     | AI emotion analysis/model training     | Want to explore PyTorch more         |
-  | Unity/Unreal        | Medium     | Game jams, 3D mechanics prototyping    | Godot is also great                  |
-  | ARM Assembly        | Low        | Microprocessor applications            | Machine instructions enthusiast     |
+  | C/C++               | Expert      | Games, encryption tools, CLI apps, Coding languages      | My favorite languages                 |
+  | C#                  | Expert      | Windows port applications              | Good for my .NET development          |
+  | Python              | Expert      | AI training/data manipulation          | I prefer brackets over indentation     |
+  | Linux/Bash          | Expert      | C development, scripting, VPN tools    | Essential for my low-level work         |
+  | MySQL               | Expert      | Database-driven applications           | I love working with datasets           |
+  | TensorFlow/PyTorch  | Experienced     | AI emotion analysis/model training     | Want to explore PyTorch more         |
+  | Unity/Unreal        | Experienced     | Game jams, 3D mechanics prototyping    | Godot is also great                  |
+  | ARM Assembly        | Studying        | Microprocessor applications            | Machine instructions enthusiast     |
 
   
   **Looking to Collaborate On**  
